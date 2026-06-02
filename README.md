@@ -140,7 +140,7 @@ Introducing a cutting-edge medical diagnostic website that harnesses the power o
 #### 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/Prudhvi-232/SmartClinic.git
+git clone https://github.com/chandra-011220/SmartClinic.git
 cd SmartClinic
 ```
 
@@ -221,10 +221,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-- 👨‍💻 [Prudhvi-232](https://github.com/Prudhvi-232)
-- 👩‍💻 [nidhishkureti](https://github.com/nidhishkureti)
-- 👨‍💻 [SiddharthPaladi](https://github.com/SiddharthPaladi)
+- 👨‍💻 [chandra-011220](https://github.com/chandra-011220)
 
 ---
