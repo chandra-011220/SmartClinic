@@ -18,7 +18,7 @@ const DoctorCard = (props) => {
 			setDirection(true);
 		} else {
 			navigateToLogin();
-			toast.error("Please login to use all the functions!!");
+			toast.error("Please login to use all the functions!");
 			setDirection(false);
 		}
 	}, [jwt, navigateToLogin]);
@@ -28,7 +28,7 @@ const DoctorCard = (props) => {
 			<div className="relative w-[408px] h-[240px] overflow-hidden rounded-t-lg shadow-lg">
 				{!imgLoaded && (
 					<div className="absolute inset-0 animate-pulse bg-gray-200 flex items-center justify-center text-xs text-gray-500">
-						Loading image...
+						Loading image..
 					</div>
 				)}
 				<img
